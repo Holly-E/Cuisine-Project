@@ -1,0 +1,2 @@
+Imagine you are walking through the grocery store or farmer’s market in search of inspiration. A new ingredient catches your eye and you decide to buy it. What ingredients might you pair with this? 
+The ingredient is the first input to a neural network and classification model. The second input is the number of ingredients you would like to include in the dish. The model output is a list of recommended ingredients to pair with. It also provides the type of cuisine this flavor combination most likely would be found in, in case you would like further inspiration.
